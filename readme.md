@@ -1,0 +1,1 @@
+# Snake Game by using pure Vanilla Javascript DOM manipulation HTML and CSS 
